@@ -38,7 +38,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/danilo88kr/danilo88kr/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
